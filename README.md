@@ -47,3 +47,9 @@ Output
 {"status":"success","email":"test@mail.com"}
 ```
 
+#### Response generated for invalid tokens
+```
+{"status":"invalid token"}
+{"status":"jwt must be provided"}
+{"status":"jwt malformed"}
+```
