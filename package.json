@@ -1,0 +1,15 @@
+{
+  "name": "token-microservice",
+  "version": "1.0.0",
+  "description": "Token microservice example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js token-microservice"
+  },
+  "keywords": [],
+  "author": "navneet",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
